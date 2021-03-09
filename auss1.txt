@@ -1,4 +1,6 @@
-length=08#infotext="In seiner wohl kultigsten Serie "Straßen" begeben wir uns mit dem Hamburger Künstler Lorenz Falkson auf eine Spurensuche der besonderen Art."\n\n- Lorenz Falkson#infotextende
+length=08#infotext="In seiner wohl kultigsten Serie "Straßen" begeben wir uns mit dem Hamburger Künstler Lorenz Falkson auf eine Spurensuche der besonderen Art."
+
+- Lorenz Falkson#infotextende
 #foto1=url=https://i.imgur.com/HmU9WwM.jpg=nomen=Straßen/1#foto1end
 #foto2=url=https://i.imgur.com/8KiYO1Y.jpg=nomen=Straßen/2#foto2end
 #foto3=url=https://i.imgur.com/esjEg8U.jpg=nomen=Straßen/3#foto3end
