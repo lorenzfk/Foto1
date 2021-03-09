@@ -4,6 +4,6 @@ length=08#infotext="In seiner wohl kultigsten Serie "Straßen" begeben wir uns m
 #foto3=url=https://i.imgur.com/esjEg8U.jpg=nomen=Straßen/3#foto3end
 #foto4=url=https://i.imgur.com/6LOmwi0.jpg=nomen=Straßen/4#foto4end
 #foto5=url=https://i.imgur.com/ejbIzmS.jpg=nomen=Straßen/5#foto5end
-#foto6=url=https://i.imgur.com/hlSk5RP.jpg=nomen=Straßen/6#foto6end
+#foto6=url=https://i.imgur.com/hlSk5RP.jpg=nomen=Wer das liest ist doof#foto6end
 #foto7=url=https://i.imgur.com/pylEp03.jpg=nomen=Straßen/7#foto7end
 #foto8=url="missing"=nomen=Straßen/8#foto8end
