@@ -1,4 +1,4 @@
-length=8#infotext="Wind ist das wohl windigste Thema das der Hamburger Ausnahmekünstler Lorenz Falkson je bearbeitet hat."
+length=8#infotext="Wind ist das wohl windigste Thema, das der Hamburger Ausnahmekünstler Lorenz Falkson je bearbeitet hat."
 
 - Lorenz Falkson#infotextende
 #foto1=url=https://i.imgur.com/4kppJrs.jpg=nomen=1/ Leichte Brise#foto1end
