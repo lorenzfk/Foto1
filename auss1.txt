@@ -1,11 +1,12 @@
 length=9#infotext="Wind ist das wohl windigste Thema das der Hamburger Ausnahmekünstler Lorenz Falkson je bearbeitet hat."
 
 - Lorenz Falkson#infotextende
-#foto1=url=https://i.imgur.com/411kwye.png=nomen=1/ Leichte Brise#foto1end
-#foto2=url=https://i.imgur.com/blNjU7n.png=nomen=3/ Schwache Brise#foto2end
-#foto3=url=https://i.imgur.com/5wLQQsF.png=nomen=4/ Mäßige Brise#foto3end
-#foto4=url=https://i.imgur.com/JNn7byU.png=nomen=8/ Stürmischer Wind#foto4end
-#foto5=url=https://i.imgur.com/QvdmQLq.png=nomen=9/ Sturm#foto5end
-#foto6=url=https://i.imgur.com/L6203AZ.png=nomen=10/ Schwerer Sturm#foto6end
-#foto7=url=https://i.imgur.com/9O14Vtp.png=nomen=12/ Orkan#foto7end
-#foto8=url=https://i.imgur.com/7iSu7WJ.png=nomen=WIND#foto8end
+#foto1=url=https://i.imgur.com/4kppJrs.jpg=nomen=1/ Leichte Brise#foto1end
+#foto2=url=https://i.imgur.com/RqupQkx.jpg=nomen=3/ Schwache Brise#foto2end
+#foto3=url=https://i.imgur.com/b2gOzJN.jpg=nomen=4/ Mäßige Brise#foto3end
+#foto4=url=https://i.imgur.com/JImKyl6.jpg=nomen=8/ Stürmischer Wind#foto4end
+#foto5=url=https://i.imgur.com/MaOJFki.jpg=nomen=9/ Sturm#foto5end
+#foto6=url=https://i.imgur.com/uOWG4xw.jpg=nomen=10/ Schwerer Sturm#foto6end
+#foto7=url=https://i.imgur.com/o7Lfh5h.jpg=nomen=12/ Orkan#foto7end
+#foto8=url=https://i.imgur.com/x1ttoFD.jpg=nomen=0/ Windstille#foto8end
+#foto9=url=https://i.imgur.com/GaZzY25.jpg=nomen=WIND#foto8end
