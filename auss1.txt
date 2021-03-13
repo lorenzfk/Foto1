@@ -10,3 +10,4 @@ length=8#infotext="Wind ist das wohl windigste Thema, das der Hamburger Ausnahme
 #foto7=url=https://i.imgur.com/o7Lfh5h.jpg=nomen=12/ Orkan#foto7end
 #foto8=url=https://i.imgur.com/x1ttoFD.jpg=nomen=0/ Windstille#foto8end
 #foto9=url=https://i.imgur.com/GaZzY25.jpg=nomen=WIND#foto8end
+#colname=WIND#colend
